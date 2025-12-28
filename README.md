@@ -185,8 +185,7 @@ If you have questions or suggestions, feel free to:
 ## 🔗 Links
 
 - [Live Demo](https://basicsglang.pages.dev/)
-- [SGLang Official Documentation](https://github.com/sgl-project/sglang)
-- [Report Issues](https://github.com/yourusername/learn-sglang/issues)
+- [SGLang Official Documentation](https://docs.sglang.io/)
 
 ---
 
